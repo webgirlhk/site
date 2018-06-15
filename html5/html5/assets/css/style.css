@@ -4,9 +4,9 @@
 #nav {display: none;}
 #tit {background: #fff5f5; }
 #contents {}
-#contents .container {box-sizing: border-box; border-left: 1px solid #000; border-right: 1px solid #000;}
+#contents .container {box-sizing: border-box; border-left: 1px solid #dbdbdb; border-right: 1px solid #dbdbdb;}
 #cont-left {float: left; width: 250px; }
-#cont-center {overflow: hidden; box-sizing: border-box; margin-right: 250px; min-height: 1300px; border-left: 1px solid #000; border-right: 1px solid #000; }
+#cont-center {overflow: hidden; box-sizing: border-box; margin-right: 250px; min-height: 1300px; border-left: 1px solid #dbdbdb; border-right: 1px solid #dbdbdb; }
 #cont-right {position: absolute; right: 0; top: 0; width: 250px;  }
 #footer { border-top: 1px solid #dbdbdb;}
 
@@ -213,7 +213,7 @@ border-left: 30px solid transparent;border-bottom: 70px solid #fc12cd;}
 .tit .tit-btn i {font-size: 30px; line-height: 66px;}
 
 /* cbox */
-.cbox {padding: 15px; border-bottom: 1px solid #000; }
+.cbox {padding: 15px; border-bottom: 1px solid #dbdbdb; }
 .cbox .cbox-tit {font-size: 20px; color:#c50e12; text-transform: uppercase;}
 .cbox .cbox-desc {border-bottom: 1px dashed #dbdbdb; 
 	padding-bottom: 15px; margin-bottom: 15px;  }
